@@ -16,4 +16,5 @@ Input your CTA key (mine was a 25 character alphanumeric key) in the AppDelegate
 
 All images were created via Adobe Photoshop and Illustrator. This application uses the Gotham font (http://www.typography.com/fonts/gotham/overview/).
 
-To follow: Screenshots of the App
+Screenshots of the App
+![](https://gerry0212.files.wordpress.com/2014/11/ctagitscreenshot1.png)
